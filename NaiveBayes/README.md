@@ -14,16 +14,16 @@ Embarking on a comprehensive exploration of the Naive Bayes algorithm, the proje
 The primary coding implementation of the project relies solely on the capabilities of Numpy and Pandas. This strategic choice emphasizes a minimalist approach, allowing for a clear understanding of the algorithm's implementation without the assistance of external libraries.
 
 * **Hands-On Experience in Building a Naive Bayes Classifier:**
-One of the key goals is to provide a hands-on experience for participants. By actively engaging in the process of constructing a Naive Bayes classifier, individuals can gain practical insights into the workings of the algorithm.
+One of the key goals is to provide a hands-on experience. By actively engaging in the process of constructing a Naive Bayes classifier, this project helps in gaining practical insights into the workings of the algorithm.
 
 * **Independence from External Libraries:**
 A notable aspect of this project is the deliberate avoidance of external libraries, emphasizing self-sufficiency in the implementation. This decision encourages a deeper connection with the code and a more profound understanding of the Naive Bayes algorithm.
 
 * **Delving into Algorithmic Intricacies:**
-The project aims to delve into the intricacies of the Naive Bayes algorithm, providing participants with a nuanced comprehension of its inner workings. This includes exploring how the algorithm handles conditional independence assumptions and probability calculations.
+The project aims to delve into the intricacies of the Naive Bayes algorithm, providing a nuanced comprehension of its inner workings. This includes exploring how the algorithm handles conditional independence assumptions and probability calculations.
 
 * **Real-World Implementation Scenarios:**
-Beyond theoretical understanding, the project aspires to bridge the gap between concept and application. Participants will explore the practical aspects of implementing Naive Bayes in real-world scenarios, enhancing their ability to apply the algorithm to diverse problem domains.
+Beyond theoretical understanding, the project aspires to bridge the gap between concept and application. We have explored the practical aspects of implementing Naive Bayes in real-world scenarios, enhancing the ability to apply the algorithm to diverse problem domains.
 
 In essence, this project serves as a deep learning experience, helping with a thorough understanding of Naive Bayes through coding and aiming implement and apply this classification algorithm independently.
 
